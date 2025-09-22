@@ -1,0 +1,5 @@
+streamlit==1.49.1
+yfinance==0.2.66
+gTTS==2.5.4
+pandas==2.3.2
+streamlit-autorefresh
